@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "559703723546",
+    "firebase_url": "https://eskanapp-66538.firebaseio.com",
+    "project_id": "eskanapp-66538",
+    "storage_bucket": "eskanapp-66538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559703723546:android:39d89d48c5bc5ba61acba3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDS9BBlnlDYtSo-fUijuqKfD7CRF0lzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559703723546-f0klo3gl1t31nisbkalstlrs8kr9o84p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ebwallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559703723546:android:5f5c3f384705a59f",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDS9BBlnlDYtSo-fUijuqKfD7CRF0lzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559703723546-f0klo3gl1t31nisbkalstlrs8kr9o84p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ebwallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559703723546:android:1ed44c41800439d3",
+        "android_client_info": {
+          "package_name": "com.example.ebwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDS9BBlnlDYtSo-fUijuqKfD7CRF0lzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559703723546-6ivemubal2gmv69vvol8t51opjs4v2ra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559703723546-f0klo3gl1t31nisbkalstlrs8kr9o84p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ebwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
