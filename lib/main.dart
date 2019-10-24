@@ -5,7 +5,6 @@ import './view/Support.dart';
 import './view/dashboard.dart';
 import 'package:flutter/material.dart';
 import 'landing_page.dart';
-import 'phone_auth.dart';
 
 User myUser;
 Future main() async {
@@ -65,5 +64,5 @@ Widget home(bool login) {
   if (login)
     return DashboardMainPage();
   else
-    return name();
+    return LandingPage();
 }
